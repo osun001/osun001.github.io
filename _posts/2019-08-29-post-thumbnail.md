@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: A Post with Thumbnail Image
 image: /img/160913stanford_sgsi-square.jpg
 ---
 
