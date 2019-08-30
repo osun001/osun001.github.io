@@ -9,7 +9,7 @@ comments: true
 {: .box-warning}
 **Important!** IF YOU ARE MAKING THIS WEBSITE FOR A PROJECT PAGE (not for a user page), make sure you are pushing edits to the gh-pages branch, not the master branch!
 
-![Github gh-pages push screenshot ](/img/github-push-ghpages.png){: .center-block :}
+[Github gh-pages push screenshot](/img/github-push-ghpages.png){: .center-block :}
 
 ## Image URLs
 
