@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Post with a Header Image
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: How might we elimnate this unnecessary subtitle?
 bigimg: /img/path.jpg
 tags: [image, text, test]
 ---
