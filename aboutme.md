@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I'm a Computer Science Professor
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Going to update this page...
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### A boring fact about me
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Every day, I eat a sliced stone fruit and 1 hard-boiled egg for breakfast.
