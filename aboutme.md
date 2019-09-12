@@ -9,6 +9,6 @@ Going to update this page...
 ### A boring fact about me
 
 Every day, I eat:
-1. a sliced stone fruit
-99. 1 hard-boiled egg for breakfast.
+* a sliced stone fruit
+* 1 hard-boiled egg for breakfast.
 
