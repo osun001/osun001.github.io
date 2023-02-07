@@ -1,15 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you should spend your precious, limited, irreplaceable time on me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Onassa, and I'm a Comp Lit major trying to make a Squishmallow that will randomly play one of my friends' voices saying something (preferably nice) whenever I hug it. Will consider making one for you if you are nice :)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 
