@@ -1,12 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you should spend your precious, limited, irreplaceable time on me
+subtitle: Why I'm Taking Electronic Textiles
 ---
 
-My name is Onassa, and I'm a Comp Lit major trying to make a Squishmallow that will randomly play one of my friends' voices saying something (preferably nice) whenever I hug it. Will consider making one for you if you are nice :)
+My name is Onassa, and my goal for the spring 2023 semester is to understand and model the way digital data interacts with humans through interactive technology devices. The reason I am taking E-Textiles and not Intro to Computer Science is that I am chiefly interested in the human experience, and E-Textiles lies at the intersection of humanity and computers. I hope to demonstrate the positive impact that interactive technology devices can have on people by creating a Squishmallow that will randomly play a pre-recorded message from one of my friends every time time I hug it. My hope is that this new and improved Squishmallow can improve mental health by keeping people's loved ones nearby at all times. Ultimately, I hope my project will exemplify the incredible positive potential of human-aligned technology devices.
 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
