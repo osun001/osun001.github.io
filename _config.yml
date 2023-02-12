@@ -22,8 +22,8 @@ author: Onassa Sun
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Scratch: "https://scratch.mit.edu/users/27177/"
+    - Creative Writing: "https://mellifluousdenouement.weebly.com"
 
 ################
 # --- Logo --- #
@@ -31,7 +31,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/IMG_6435.jpeg"
+avatar: "/assets/img/FullSizeRender.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -51,7 +51,7 @@ social-network-links:
   email: "os2@williams.edu"
 #  medium: yourname
 #  reddit: yourname
-  linkedin: onassasun
+  linkedin: onassa-sun
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -80,7 +80,6 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  linkedin: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -115,14 +114,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#00FFFF"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#00FFFF"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
