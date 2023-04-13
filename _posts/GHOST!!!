@@ -1,0 +1,11 @@
+---
+layout: post
+title: GHOST!!!
+subtitle: 
+tags: [post, sensors, ghost]
+comments: true
+---
+
+For this assignment, I wrote a program that would make my red LED and RGB LED light up when it is dark or cold enough for there to be... GHOSTS!!! A tip to my past self would be to make sure that the connection for my LEDs is intact because, at first, my off-board LED would not turn off and I was very confused until Dylan came to my rescue!
+
+![working](https://osun001.github.io/assets/img/IMG_7365.jpg)
